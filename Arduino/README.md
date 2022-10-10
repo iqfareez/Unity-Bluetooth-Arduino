@@ -10,6 +10,5 @@ Set up a joystick controller using Arduino.
 
 ## Circuit diagram
 
-<!-- TODO -->
+![mycircuit_bb](https://user-images.githubusercontent.com/60868965/194908458-aac36a0d-1e4a-4f55-8409-6e6bddab7c54.png)
 
-## Libraries
