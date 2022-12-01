@@ -1,9 +1,10 @@
 # Unity - Bluetooh - Arduino
 
-Control Unity game using joystick over Bluetooth connection using Arduino
+Control simple Unity game using joystick over Bluetooth connection using Arduino
 
-Youtube: https://youtu.be/9xPxUO6KCDA
-Instagram: https://www.instagram.com/reel/CjBLmKEuHds
+**Youtube:** https://youtu.be/9xPxUO6KCDA
+
+**Instagram:** https://www.instagram.com/reel/CjBLmKEuHds
 
 ## Getting started
 
